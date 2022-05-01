@@ -1,5 +1,6 @@
 # Kodluyoruz İlk Repo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet index.html dosyası içeriyor.
+[Profil](https://app.patika.dev/samethalitaytekin)
 
 ![Örnek Görsel](https://github.com/sametaytekin/kodluyoruzilkrepo/blob/main/ilk_repo.PNG)
 
