@@ -5,3 +5,4 @@ Bu repo Kodluyoruz eğitimi kapsamında açtığım ilk repo. İçerisinde bir a
 Öncelikle projeyi clonelayın.
 
 >lqajfn
+'kodluyoruz'
